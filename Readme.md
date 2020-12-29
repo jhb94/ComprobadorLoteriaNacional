@@ -1,4 +1,4 @@
-Comprobador de números de Lotería Nacional
+Comprobador de números de Lotería Nacional de Navidad
 
 Sustituir los números de los décimos en la línea 38 dentro del array.
 
